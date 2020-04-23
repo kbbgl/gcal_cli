@@ -1,0 +1,25 @@
+{
+  "name": "gcal_calendar_creator",
+  "version": "1.0.0",
+  "description": "CLI to create Google Calendar Events",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/kbbgl/gcal_cli"
+  },
+  "keywords": [
+    "Google",
+    "Calendar",
+    "gcal",
+    "cli",
+    "google"
+  ],
+  "author": "KoGa",
+  "license": "ISC",
+  "dependencies": {
+    "googleapis": "^39.2.0"
+  }
+}
